@@ -15,7 +15,7 @@
   <img align="center" alt="tada" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="tada" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="tada-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="right" alt="kappomon" src="https://s3.amazonaws.com/kappamonbot/v2/asset/kitty_white_dance.gif">
+  <img align="right" alt="kappomon"  height="220" width="200"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz src="https://s3.amazonaws.com/kappamonbot/v2/asset/panda_black_greet.gif">
  
   </div>
   
